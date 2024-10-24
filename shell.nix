@@ -9,7 +9,7 @@
     jq
     (google-cloud-sdk.withExtraComponents [google-cloud-sdk.components.gke-gcloud-auth-plugin])
     awscli2
-    # azure-cli
+    #azure-cli
     upbound
     teller
     crossplane-cli
